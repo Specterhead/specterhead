@@ -25,5 +25,5 @@ In my spare time I enjoy exploring new ideas in data storage, file systems, orga
  
 - 💬 Ask me about: How to make a pizza from scratch or catalog the perfect digital media collection
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cole-hamilton-63572a129/)
-- ⚡ Fun fact: I'm an avid cyclist, primarily gravel and adventure riding.
-- 🔭 I’m currently working on: Implementing a low power, set and forget home server and bulk storage system.
+- ⚡ Fun fact: I'm an avid cyclist, primarily gravel and adventure riding
+- 🔭 I’m currently working on: Implementing a low power, set and forget home server and bulk storage system
