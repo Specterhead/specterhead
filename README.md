@@ -17,13 +17,12 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Cole Hamiton,
 
-And to fund the bill for my homelab I manage a team of Support Specialists for a global software firm that specializes in online payments and marketing. 
-
-In my spare time I enjoy exploring new ideas in data storage, file systems, organization methods, networking, automation and security.
+by day I work as a Director of Vendor Management for a global software firm that specializes in online KYC.
+At night I explore new ideas in data storage, file systems, organization methods, networking, automation and security.
 
 <blockquote align="center">Some Quick Info</blockquote>
  
-- 💬 Ask me about: How to make a pizza from scratch or catalog the perfect digital media collection
+- 💬 Ask me about: How to make a pizza from scratch or catalog the perfect digital media collection.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/cole-hamilton-63572a129/)
-- ⚡ Fun fact: I'm an avid cyclist, primarily gravel and adventure riding
-- 🔭 I’m currently working on: Implementing a low power, set and forget home server and bulk storage system
+- ⚡ Fun fact: I'm an avid cyclist, primarily gravel and adventure riding.
+- 🔭 I’m currently working on: Implementing a low power, set and forget home server and bulk storage system.
