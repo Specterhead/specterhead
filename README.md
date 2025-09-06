@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋 I'm Cole Hamiton,
 
-by day I work as a Director of Vendor Management for a global software firm that specializes in online KYC.
+by day I work as a Senior product manager of Identity for a global software firm that specializes in online KYC.
 At night I explore new ideas in data storage, file systems, organization methods, networking, automation and security.
 
 <blockquote align="center">Some Quick Info</blockquote>
